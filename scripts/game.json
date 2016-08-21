@@ -1,0 +1,15 @@
+{
+    "name": "TestEngine build v0.1",
+    "icon": "resources/empty.png",
+    "debug": true,
+	"save": false,
+	"world": "room",
+	"text": [
+		"How to Play",
+		"",
+		"Left click = gather",
+		"Right click = smash"
+	],
+	"variables": {
+	}
+}
